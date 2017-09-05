@@ -1,7 +1,7 @@
 {
   "name": "crc64-ecma182",
   "version": "1.0.0",
-  "description": "Implement of CRC64-ECMA182 for Node.js Edit",
+  "description": "Implement of CRC64-ECMA182 for Node.js",
   "main": "crc64_ecma182.js",
   "scripts": {
     "test": "./node_modules/.bin/_mocha"
