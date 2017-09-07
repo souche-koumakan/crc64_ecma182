@@ -1,6 +1,15 @@
 # CRC64 ECMA182
 
-Implement of CRC64-ECMA182 for Node.js.
+[![Build Status](https://travis-ci.org/souche-koumakan/crc64_ecma182.svg?branch=master)](https://travis-ci.org/souche-koumakan/crc64_ecma182)
+[![Coverage Status](https://img.shields.io/coveralls/souche-koumakan/crc64_ecma182.svg)](https://coveralls.io/r/souche-koumakan/crc64_ecma182)
+[![crc64-ecma182](http://img.shields.io/npm/v/crc64-ecma182.svg)](https://www.npmjs.org/package/crc64-ecma182)
+[![crc64-ecma182](http://img.shields.io/npm/dm/crc64-ecma182.svg)](https://www.npmjs.org/package/crc64-ecma182)
+[![License](https://img.shields.io/npm/l/crc64-ecma182.svg?style=flat)](https://www.npmjs.org/package/crc64-ecma182)
+[![Dependency Status](https://david-dm.org/souche-koumakan/crc64_ecma182.svg)](https://david-dm.org/souche-koumakan/crc64_ecma182)
+
+[![NPM](https://nodei.co/npm/crc64-ecma182.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/crc64-ecma182/) [![NPM](https://nodei.co/npm-dl/crc64-ecma182.png?months=6&height=2)](https://nodei.co/npm/crc64-ecma182/)
+
+> This package can be used as verify [Ali-OSS](https://help.aliyun.com/document_detail/43394.html) file.
 
 ## Installation
 
